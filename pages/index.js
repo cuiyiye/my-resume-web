@@ -1,5 +1,5 @@
-import Home from '../components/Home';
-import Contact from '../components/Contact';
+import Home from '../components/home';
+import Contact from '../components/contact';
 
 export default function Main() {
   return (
